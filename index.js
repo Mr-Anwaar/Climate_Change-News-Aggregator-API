@@ -6,7 +6,7 @@ const res = require('express/lib/response')
 const { response } = require('express')
 
 const app = express()
-
+// required Array of Resource Websites
 const websites = [
     {
         name: 'thetimes',
@@ -15,7 +15,7 @@ const websites = [
     },
     {
         name: 'theguardian',
-        address: 'https://www.theguardian.com/environment/climate-crisis',
+        address: 'https://www.theguardian.com/environment/climate-crisis/all',
         base: ''
     },
     {
@@ -24,7 +24,7 @@ const websites = [
         base: 'https://www.telegraph.co.uk'
     }
 ]
-const articles = []
+const articles = [] // array for Storing data
 
 websites.forEach(website => {
     axios.get(website.address)
