@@ -31,7 +31,7 @@ Perfect for researchers, developers, educators, and sustainability projects need
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-username/climate-news-api.git
+git clone [https://github.com/Mr-Anwaar/Climate_Change-News-Aggregator-API.git]
 cd climate-news-api
 npm install
 ```
