@@ -100,7 +100,7 @@ GET http://localhost:8000/news/telegraph
 
 ## 📄 License
 
-MIT © [Mr_Anwaar]  
+MIT © [Mr-Anwaar]  
 See [LICENSE](LICENSE) for details.
 
 ---
