@@ -116,8 +116,3 @@ Found a broken selector? Want to add BBC or Reuters?
 
 --- 
 
-✅ **Character-optimized**  
-✅ **SEO-rich**  
-✅ **Accurate to live site content** (validated against Nov 2025 Telegraph & Times pages)  
-✅ **Professional tone for academic, dev, and environmental audiences**
-
